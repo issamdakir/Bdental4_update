@@ -1,0 +1,59 @@
+{
+    "Bdental_Library": [
+        "Bdental_Library"
+    ],
+    "bdental_modules": [
+        "bdental_modules"
+    ],
+
+    "__init__.py": [
+        "__init__.py"
+    ],
+    "BDENTAL_Panel.py": [
+        "BDENTAL_Panel.py"
+    ],
+    "BDENTAL_Props.py": [
+        "BDENTAL_Props.py"
+    ],
+    "utils.py": [
+        "utils.py"
+    ],
+
+    "BDENTAL_Operators.py": [
+        "Operators",
+        "BDENTAL_Operators.py"
+    ],
+    "BDENTAL_Utils.py": [
+        "Operators",
+        "BDENTAL_Utils.py"
+    ],
+    "looptools.py": [
+        "Operators",
+        "looptools.py"
+    ],
+
+    "BDENTAL_BlendData.blend": [
+        "Resources",
+        "BlendData",
+        "BDENTAL_BlendData.blend"
+    ],
+    
+    "Bdental_Library_Archive": [
+        "Resources",
+        "Bdental_Library_Archive"
+    ],
+    
+    
+    "bdental_app_template.zip": [
+        "Resources",
+        "bdental_app_template.zip"
+    ],
+    "BDENTAL_Version.txt": [
+        "Resources",
+        "BDENTAL_Version.txt"
+    ],
+    "startup.blend": [
+        "Resources",
+        "startup.blend"
+    ]
+}
